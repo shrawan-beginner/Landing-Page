@@ -1,2 +1,2 @@
 # Landing-Page
-Landing Page creating using Flexbox from The Odin Project
+This is a landing page layout created using flexbox concepts from the Flexbox section of Foundations Course in The Odin Project(TOP).
